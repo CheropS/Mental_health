@@ -10,3 +10,6 @@ mental health issues has been on the rise in the last couple of years. During an
 
 ## Author
 Sharon Cherop 
+
+### Disclaimer
+When working on the dataset, I realized that it had so many errors and mistakes. I have to work on the original csv files to modify and categorize some data such as regions/entity. Due to limited time constraints, I was unable to do so. I will work on it to give me the desired analysis. 
